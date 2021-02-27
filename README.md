@@ -5,7 +5,7 @@ This is JC, an entreprenuer since 2000, working with and Telephony and Telecommu
 
 I am Electronic Engineers with specilization in Telcommunciations and Management  
 
-My career goals are implement FinTech tecnology to proveide best services to my customrs and provide easy and secure products to the industry
+My career goals are the implementation of FinTech providing best services to my customrs and provide easy and secure products to the telecom industry
 
 Why did you choose FinTech as a career path?
-I was reading a Mutul Fund book and I found the future with Blockchain and call my attention to learn more and undertand all concept joing finance and technology
+I was reading a Mutul Fund book and I found the future with Blockchain, it calls my attention to learn more and undertand all concepts and i decide to go deep and learn more about finance and technology
