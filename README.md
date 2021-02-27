@@ -9,10 +9,12 @@
 This is JC, an entreprenuer since 2000, working with and Telephony and Telecommunciations companies, providing services and products for B2B & B2C markets. 
 
 ##Table of Content
-  code
-  data
-  references
-  images
+  Code
+  Data
+  References
+  Images
+
+Click on the folders to see the code, data, references and images
 
 [Code](code)
 
