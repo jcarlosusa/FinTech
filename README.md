@@ -1,7 +1,23 @@
-# FinTech
-Manage FinTech Information
+### FinTech
+
+# Manage FinTech Information
+
+![Mi Picture](https://www.telonline.com/wp-content/uploads/2019/10/LOGO_TELONLINE.png)
+
+##Description
 
 This is JC, an entreprenuer since 2000, working with and Telephony and Telecommunciations companies, providing services and products for B2B & B2C markets. 
+
+##Table of Content
+  code
+  data
+  references
+  images
+
+[Code](code)
+[data](data)
+[Reference](reference)
+[Images](images)
 
 I am Electronic Engineers with specilization in Telcommunciations and Management  
 
