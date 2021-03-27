@@ -1,0 +1,7 @@
+This is an output file at beginning of file.
+List of Best Actors:
+Nicolas Cage
+Betty White
+Gary Busey
+
+This is an output file at ending of file.
